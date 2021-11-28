@@ -15,6 +15,8 @@ public class App {
         }
         al.clear();
         System.out.println(al.isEmpty());
+        System.out.println("adding 1st in backup");
+        
 
         
 
